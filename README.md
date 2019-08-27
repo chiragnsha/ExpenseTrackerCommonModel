@@ -22,7 +22,7 @@ pod 'ETAppModel'
 
 ## Author
 
-chiragnsha, chirag.shah@zoho
+chiragnsha, chirag.shah
 
 ## License
 
