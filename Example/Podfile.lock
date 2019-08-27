@@ -1,0 +1,27 @@
+PODS:
+  - ETAppModel (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - ETAppModel (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  ETAppModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ETAppModel: 1fa4def9a90e375f57d1cc4f4a065654cc4375d7
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 8acea943f416512b9336e42815c5139720a82d34
+
+COCOAPODS: 1.6.0

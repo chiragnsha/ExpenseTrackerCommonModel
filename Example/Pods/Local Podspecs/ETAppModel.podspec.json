@@ -1,0 +1,22 @@
+{
+  "name": "ETAppModel",
+  "version": "0.1.0",
+  "summary": "A short description of ETAppModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chiragnsha/ETAppModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chiragnsha": "chirag.shah@zoho"
+  },
+  "source": {
+    "git": "https://github.com/chiragnsha/ETAppModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ETAppModel/Classes/**/*"
+}
